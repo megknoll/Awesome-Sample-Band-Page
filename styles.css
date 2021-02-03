@@ -1,0 +1,34 @@
+.images {
+	display:flex;
+}
+
+h1 {
+	font-family: 'Pirata One', cursive;
+    font-size: 50px;
+}
+body {
+	color: yellow;
+    background: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Don't edit this*/
+img{
+    width: 150px; 
+    display: block;
+}
